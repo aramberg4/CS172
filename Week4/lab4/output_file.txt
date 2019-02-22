@@ -1,0 +1,536 @@
+Starting Battle Between
+Drax, the Nightstalker: An emissary of darkness.
+Frosty, the Abominable: A giant from an arctic land.
+
+Frosty, the Abominable goes first.
+Frosty, the Abominable uses Swing Club on Drax, the Nightstalker
+Drax, the Nightstalker at 83
+Frosty, the Abominable at 100
+
+Drax, the Nightstalker uses Scrape on Frosty, the Abominable
+Drax, the Nightstalker at 83
+Frosty, the Abominable at 95
+
+Frosty, the Abominable uses Ice Breath on Drax, the Nightstalker
+Drax, the Nightstalker at 63
+Frosty, the Abominable at 95
+
+Drax, the Nightstalker uses Scrape on Frosty, the Abominable
+Drax, the Nightstalker at 63
+Frosty, the Abominable at 90
+
+Frosty, the Abominable uses Ice Breath on Drax, the Nightstalker
+Drax, the Nightstalker at 43
+Frosty, the Abominable at 90
+
+Drax, the Nightstalker uses Bite on Frosty, the Abominable
+Drax, the Nightstalker at 43
+Frosty, the Abominable at 75
+
+Frosty, the Abominable uses Swing Club on Drax, the Nightstalker
+Drax, the Nightstalker at 26
+Frosty, the Abominable at 75
+
+Drax, the Nightstalker uses Scrape on Frosty, the Abominable
+Drax, the Nightstalker at 26
+Frosty, the Abominable at 70
+
+Frosty, the Abominable uses Regenerate on Drax, the Nightstalker
+Drax, the Nightstalker at 26
+Frosty, the Abominable at 90
+
+Drax, the Nightstalker uses Bite on Frosty, the Abominable
+Drax, the Nightstalker at 26
+Frosty, the Abominable at 75
+
+Frosty, the Abominable uses Ice Breath on Drax, the Nightstalker
+Drax, the Nightstalker at 6
+Frosty, the Abominable at 75
+
+Drax, the Nightstalker uses Scrape on Frosty, the Abominable
+Drax, the Nightstalker at 6
+Frosty, the Abominable at 70
+
+Frosty, the Abominable uses Swing Club on Drax, the Nightstalker
+Drax, the Nightstalker at -11
+Frosty, the Abominable at 70
+
+Frosty, the Abominable has defeated Drax, the Nightstalker in battle!
+
+Starting Battle Between
+Drax, the Nightstalker: An emissary of darkness.
+Lichenstein, Terror of the Earth: An undead spellcaster of great power.
+
+Drax, the Nightstalker goes first.
+Drax, the Nightstalker uses Bite on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 100
+Lichenstein, Terror of the Earth at 85
+
+Lichenstein, Terror of the Earth uses Soul drain on Drax, the Nightstalker
+Drax, the Nightstalker at 95
+Lichenstein, Terror of the Earth at 90
+
+Drax, the Nightstalker uses Scrape on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 95
+Lichenstein, Terror of the Earth at 85
+
+Lichenstein, Terror of the Earth uses Soul drain on Drax, the Nightstalker
+Drax, the Nightstalker at 90
+Lichenstein, Terror of the Earth at 90
+
+Drax, the Nightstalker uses Jump on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 105
+Lichenstein, Terror of the Earth at 89
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Drax, the Nightstalker
+Drax, the Nightstalker at 93
+Lichenstein, Terror of the Earth at 89
+
+Drax, the Nightstalker uses Scrape on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 93
+Lichenstein, Terror of the Earth at 84
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Drax, the Nightstalker
+Drax, the Nightstalker at 81
+Lichenstein, Terror of the Earth at 84
+
+Drax, the Nightstalker uses Bite on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 81
+Lichenstein, Terror of the Earth at 69
+
+Lichenstein, Terror of the Earth uses Soul drain on Drax, the Nightstalker
+Drax, the Nightstalker at 76
+Lichenstein, Terror of the Earth at 74
+
+Drax, the Nightstalker uses Scrape on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 76
+Lichenstein, Terror of the Earth at 69
+
+Lichenstein, Terror of the Earth uses Soul drain on Drax, the Nightstalker
+Drax, the Nightstalker at 71
+Lichenstein, Terror of the Earth at 74
+
+Drax, the Nightstalker uses Scrape on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 71
+Lichenstein, Terror of the Earth at 69
+
+Lichenstein, Terror of the Earth uses Finger of Death on Drax, the Nightstalker
+Drax, the Nightstalker at 31
+Lichenstein, Terror of the Earth at 69
+
+Drax, the Nightstalker uses Scrape on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 31
+Lichenstein, Terror of the Earth at 64
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Drax, the Nightstalker
+Drax, the Nightstalker at 19
+Lichenstein, Terror of the Earth at 64
+
+Drax, the Nightstalker uses Scrape on Lichenstein, Terror of the Earth
+Drax, the Nightstalker at 19
+Lichenstein, Terror of the Earth at 59
+
+Lichenstein, Terror of the Earth uses Finger of Death on Drax, the Nightstalker
+Drax, the Nightstalker at -21
+Lichenstein, Terror of the Earth at 59
+
+Lichenstein, Terror of the Earth has defeated Drax, the Nightstalker in battle!
+
+Starting Battle Between
+Drax, the Nightstalker: An emissary of darkness.
+Steve, the Great Circle: A gigantic circle of deep circumspection. It radiates power.
+
+Drax, the Nightstalker goes first.
+Drax, the Nightstalker uses Jump on Steve, the Great Circle
+Drax, the Nightstalker at 115
+Steve, the Great Circle at 299
+
+Steve, the Great Circle uses Contemplate on Drax, the Nightstalker
+Drax, the Nightstalker at 115
+Steve, the Great Circle at 299
+
+Drax, the Nightstalker uses Jump on Steve, the Great Circle
+Drax, the Nightstalker at 130
+Steve, the Great Circle at 298
+
+Steve, the Great Circle uses Contemplate on Drax, the Nightstalker
+Drax, the Nightstalker at 130
+Steve, the Great Circle at 298
+
+Drax, the Nightstalker uses Jump on Steve, the Great Circle
+Drax, the Nightstalker at 145
+Steve, the Great Circle at 297
+
+Steve, the Great Circle uses Contemplate on Drax, the Nightstalker
+Drax, the Nightstalker at 145
+Steve, the Great Circle at 297
+
+Drax, the Nightstalker uses Scrape on Steve, the Great Circle
+Drax, the Nightstalker at 145
+Steve, the Great Circle at 292
+
+Steve, the Great Circle uses Contemplate on Drax, the Nightstalker
+Drax, the Nightstalker at 145
+Steve, the Great Circle at 292
+
+Drax, the Nightstalker uses Bite on Steve, the Great Circle
+Drax, the Nightstalker at 145
+Steve, the Great Circle at 277
+
+Steve, the Great Circle uses Roll Towards on Drax, the Nightstalker
+Drax, the Nightstalker at 70
+Steve, the Great Circle at 277
+
+Drax, the Nightstalker uses Scrape on Steve, the Great Circle
+Drax, the Nightstalker at 70
+Steve, the Great Circle at 272
+
+Steve, the Great Circle uses Roll Away on Drax, the Nightstalker
+Drax, the Nightstalker at 69
+Steve, the Great Circle at 277
+
+Drax, the Nightstalker uses Scrape on Steve, the Great Circle
+Drax, the Nightstalker at 69
+Steve, the Great Circle at 272
+
+Steve, the Great Circle uses Roll Away on Drax, the Nightstalker
+Drax, the Nightstalker at 68
+Steve, the Great Circle at 277
+
+Drax, the Nightstalker uses Scrape on Steve, the Great Circle
+Drax, the Nightstalker at 68
+Steve, the Great Circle at 272
+
+Steve, the Great Circle uses Contemplate on Drax, the Nightstalker
+Drax, the Nightstalker at 68
+Steve, the Great Circle at 272
+
+Drax, the Nightstalker uses Scrape on Steve, the Great Circle
+Drax, the Nightstalker at 68
+Steve, the Great Circle at 267
+
+Steve, the Great Circle uses Roll Towards on Drax, the Nightstalker
+Drax, the Nightstalker at -7
+Steve, the Great Circle at 267
+
+Steve, the Great Circle has defeated Drax, the Nightstalker in battle!
+
+Starting Battle Between
+Frosty, the Abominable: A giant from an arctic land.
+Lichenstein, Terror of the Earth: An undead spellcaster of great power.
+
+Frosty, the Abominable goes first.
+Frosty, the Abominable uses Swing Club on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 100
+Lichenstein, Terror of the Earth at 83
+
+Lichenstein, Terror of the Earth uses Soul drain on Frosty, the Abominable
+Frosty, the Abominable at 95
+Lichenstein, Terror of the Earth at 88
+
+Frosty, the Abominable uses Ice Breath on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 95
+Lichenstein, Terror of the Earth at 68
+
+Lichenstein, Terror of the Earth uses Finger of Death on Frosty, the Abominable
+Frosty, the Abominable at 55
+Lichenstein, Terror of the Earth at 68
+
+Frosty, the Abominable uses Swing Club on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 55
+Lichenstein, Terror of the Earth at 51
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Frosty, the Abominable
+Frosty, the Abominable at 43
+Lichenstein, Terror of the Earth at 51
+
+Frosty, the Abominable uses Swing Club on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 43
+Lichenstein, Terror of the Earth at 34
+
+Lichenstein, Terror of the Earth uses Soul drain on Frosty, the Abominable
+Frosty, the Abominable at 38
+Lichenstein, Terror of the Earth at 39
+
+Frosty, the Abominable uses Swing Club on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 38
+Lichenstein, Terror of the Earth at 22
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Frosty, the Abominable
+Frosty, the Abominable at 26
+Lichenstein, Terror of the Earth at 22
+
+Frosty, the Abominable uses Swing Club on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 26
+Lichenstein, Terror of the Earth at 5
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Frosty, the Abominable
+Frosty, the Abominable at 14
+Lichenstein, Terror of the Earth at 5
+
+Frosty, the Abominable uses Regenerate on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 34
+Lichenstein, Terror of the Earth at 5
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Frosty, the Abominable
+Frosty, the Abominable at 22
+Lichenstein, Terror of the Earth at 5
+
+Frosty, the Abominable uses Regenerate on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 42
+Lichenstein, Terror of the Earth at 5
+
+Lichenstein, Terror of the Earth uses Finger of Death on Frosty, the Abominable
+Frosty, the Abominable at 2
+Lichenstein, Terror of the Earth at 5
+
+Frosty, the Abominable uses Swing Club on Lichenstein, Terror of the Earth
+Frosty, the Abominable at 2
+Lichenstein, Terror of the Earth at -12
+
+Frosty, the Abominable has defeated Lichenstein, Terror of the Earth in battle!
+
+Starting Battle Between
+Frosty, the Abominable: A giant from an arctic land.
+Steve, the Great Circle: A gigantic circle of deep circumspection. It radiates power.
+
+Steve, the Great Circle goes first.
+Steve, the Great Circle uses Contemplate on Frosty, the Abominable
+Frosty, the Abominable at 100
+Steve, the Great Circle at 300
+
+Frosty, the Abominable uses Swing Club on Steve, the Great Circle
+Frosty, the Abominable at 100
+Steve, the Great Circle at 283
+
+Steve, the Great Circle uses Contemplate on Frosty, the Abominable
+Frosty, the Abominable at 100
+Steve, the Great Circle at 283
+
+Frosty, the Abominable uses Ice Breath on Steve, the Great Circle
+Frosty, the Abominable at 100
+Steve, the Great Circle at 263
+
+Steve, the Great Circle uses Roll Towards on Frosty, the Abominable
+Frosty, the Abominable at 25
+Steve, the Great Circle at 263
+
+Frosty, the Abominable uses Swing Club on Steve, the Great Circle
+Frosty, the Abominable at 25
+Steve, the Great Circle at 246
+
+Steve, the Great Circle uses Contemplate on Frosty, the Abominable
+Frosty, the Abominable at 25
+Steve, the Great Circle at 246
+
+Frosty, the Abominable uses Ice Breath on Steve, the Great Circle
+Frosty, the Abominable at 25
+Steve, the Great Circle at 226
+
+Steve, the Great Circle uses Roll Towards on Frosty, the Abominable
+Frosty, the Abominable at -50
+Steve, the Great Circle at 226
+
+Steve, the Great Circle has defeated Frosty, the Abominable in battle!
+
+Starting Battle Between
+Lichenstein, Terror of the Earth: An undead spellcaster of great power.
+Steve, the Great Circle: A gigantic circle of deep circumspection. It radiates power.
+
+Lichenstein, Terror of the Earth goes first.
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 288
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 288
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 276
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 276
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 264
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 264
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 252
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 100
+Steve, the Great Circle at 252
+
+Lichenstein, Terror of the Earth uses Soul drain on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 105
+Steve, the Great Circle at 247
+
+Steve, the Great Circle uses Roll Away on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 104
+Steve, the Great Circle at 252
+
+Lichenstein, Terror of the Earth uses Soul drain on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 109
+Steve, the Great Circle at 247
+
+Steve, the Great Circle uses Roll Away on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 108
+Steve, the Great Circle at 252
+
+Lichenstein, Terror of the Earth uses Finger of Death on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 108
+Steve, the Great Circle at 212
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 108
+Steve, the Great Circle at 212
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 108
+Steve, the Great Circle at 200
+
+Steve, the Great Circle uses Roll Away on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 107
+Steve, the Great Circle at 205
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 107
+Steve, the Great Circle at 193
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 107
+Steve, the Great Circle at 193
+
+Lichenstein, Terror of the Earth uses Soul drain on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 112
+Steve, the Great Circle at 188
+
+Steve, the Great Circle uses Roll Away on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 193
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 181
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 181
+
+Lichenstein, Terror of the Earth uses Finger of Death on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 141
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 141
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 129
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 129
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 111
+Steve, the Great Circle at 117
+
+Steve, the Great Circle uses Roll Away on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 122
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 110
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 110
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 98
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 98
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 86
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 86
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 74
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 74
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 62
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 110
+Steve, the Great Circle at 62
+
+Lichenstein, Terror of the Earth uses Soul drain on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 115
+Steve, the Great Circle at 57
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 115
+Steve, the Great Circle at 57
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 115
+Steve, the Great Circle at 45
+
+Steve, the Great Circle uses Roll Away on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 114
+Steve, the Great Circle at 50
+
+Lichenstein, Terror of the Earth uses Finger of Death on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 114
+Steve, the Great Circle at 10
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 114
+Steve, the Great Circle at 10
+
+Lichenstein, Terror of the Earth uses Soul drain on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 119
+Steve, the Great Circle at 5
+
+Steve, the Great Circle uses Contemplate on Lichenstein, Terror of the Earth
+Lichenstein, Terror of the Earth at 119
+Steve, the Great Circle at 5
+
+Lichenstein, Terror of the Earth uses Ray of Frost on Steve, the Great Circle
+Lichenstein, Terror of the Earth at 119
+Steve, the Great Circle at -7
+
+Lichenstein, Terror of the Earth has defeated Steve, the Great Circle in battle!
+
+Frosty, the Abominable wins the tournament!
+Scores:
+Drax, the Nightstalker: 0
+Frosty, the Abominable: 2
+Lichenstein, Terror of the Earth: 2
+Steve, the Great Circle: 2
