@@ -34,6 +34,9 @@ class Node():
 class LinkedList():
     def __init__(self):
         self.__head = None
+
+    def getHead(self):
+        return self.__head
     
     def isEmpty(self):
         return self.__head == None
@@ -112,6 +115,22 @@ class LinkedList():
             counter += 1
             current = current.getNext()
         return counter
+
+def reverse1(oldList):
+    newList = LinkedList()
+    i = len(oldList)-1
+    while i >= 0:
+        newList.append(oldList[i])
+        i = i-1
+    return newList
+
+def reverse2(oldList):
+    newList = LinkedList
+    current = oldList.getHead()
+    while current != None:
+        if current.getNext() == None:
+        current = current.getNext()
+    return newList
     
     
 # main script to test linked list class
@@ -133,6 +152,21 @@ if __name__ == "__main__":
     myLinkedList.append(40)
     print('The current list after adding a few elements:')
     print(myLinkedList)
+    print()
+    print('The current list after reversing (using class):')
+    newList1 = reverse1(myLinkedList)
+    print(newList1)
+    print()
+    print('The current list after reversing (not using class):')
+    newList2 = reverse2(myLinkedList)
+    mystr = ''
+    current = self.__head
+            
+        while current != None:
+            mystr += str(current.getData()) + ' --> '
+            current = current.getNext()
+        
+        return mystr
     print()
     
     # check if linked list is empty, if not print how many nodes there are
